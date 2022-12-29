@@ -1,0 +1,3 @@
+main atributes: user(соискатель) and company(root )
+крат = создать удалить добавить прочитать открыть обновить
+database = postgres
